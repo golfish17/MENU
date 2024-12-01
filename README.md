@@ -43,4 +43,4 @@ Este proyecto es un men√∫ interactivo desarrollado en lenguaje C, que incluye m√
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/tu_usuario/tu_repositorio.git](https://github.com/golfish17/MENU.git
